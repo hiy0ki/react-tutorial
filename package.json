@@ -1,5 +1,6 @@
 {
   "name": "rt-app",
+  "homepage": "https://github.com/hiyoki/react-tutorial.git",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
